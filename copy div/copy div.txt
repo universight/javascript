@@ -1,0 +1,30 @@
+<html>
+<head>
+  <script type="text/javascript">
+    function copyDiv(){
+      var firstDivContent = document.getElementById('mydiv1');
+      var secondDivContent = document.getElementById('mydiv2');
+      secondDivContent.innerHTML = firstDivContent.innerHTML;
+    }
+  </script>
+
+
+
+</head>
+<div id="test">
+
+  <div id="mydiv1">
+      <div id="div1">xxxyyy
+      </div>
+      <div id="div2">
+      </div>
+  </div>
+
+  <div id="mydiv2">
+<script type="text/javascript">
+   copyDiv('mydiv2');
+</script>
+  </div>
+</div>
+
+</html>
