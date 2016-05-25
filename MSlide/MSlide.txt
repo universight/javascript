@@ -1,0 +1,153 @@
+
+<link href="http://a.amz.mshcdn.com/assets/app-aa110198a2dbf7559ecad0f713c18d27.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://a.amz.mshcdn.com/assets/posts-f34c2cd2b86323bbe61d0de684ef6e33.css" media="all" rel="stylesheet" type="text/css">
+<!--[if lte IE 8]>
+<link href="http://a.amz.mshcdn.com/assets/iehax-a92ea2679dfac0fd022bcbffb7a40eeb.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<style>
+  #highlights-image {
+    background-image: url('http://tristansims.com/wp-content/uploads/2014/10/wildtechnology.jpg');
+    background-repeat: no-repeat;
+    margin-top:       -378px;
+    height:           959px;
+    left:             calc( (100% - 320px) / 320 * 241 + -1001px);
+  
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
+    src='http://tristansims.com/wp-content/uploads/2014/10/wildtechnology.jpg',
+    sizingMethod='scale');
+  
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(
+    src='http://tristansims.com/wp-content/uploads/2014/10/wildtechnology.jpg',
+    sizingMethod='scale')";
+  }
+  #highlights-secondary {
+    background: linear-gradient(to top, rgba(0,0,0,0.8), rgba(0,0,0,0.4));
+  }
+  #highlights-secondary .primary-overlay {
+    background:  linear-gradient(to bottom, rgba(0,0,0,0.8), rgba(0,0,0,0));
+  }
+  @media (min-width: 640px) {
+    #highlights-image {
+      margin-top: calc( (100% - 640px) / 798 * -87 + -445px);
+      left:       calc( (100% - 640px) / 798 * 760 + -760px);
+    }
+    #highlights-section #highlights-tint {
+      background: rgba(0,0,0,0);
+    }
+    #highlights-primary {
+      background: linear-gradient(to right,rgba(0,0,0,0.9),rgba(0,0,0,0.9) 0%,rgba(0,0,0,0.6) 33%,rgba(0,0,0,0.3) 66%,rgba(0,0,0,0) 100%,rgba(0,0,0,0));
+    }
+    #highlights-secondary {
+      background: linear-gradient(to right,rgba(0,0,0,0),rgba(0,0,0,0) 0%,rgba(0,0,0,0.3) 33%,rgba(0,0,0,0.6) 66%,rgba(0,0,0,0.9) 100%,rgba(0,0,0,0.9));
+      display:    block;
+    }
+  }
+  @media (min-width: 960px) {
+    #highlights-section #highlights-tint {
+      background: rgba(0,0,0,0);
+    }
+    #highlights-primary {
+      background: linear-gradient(to right,rgba(0,0,0,0.9),rgba(0,0,0,0.9) 0%,rgba(0,0,0,0.6) 33%,rgba(0,0,0,0.3) 66%,rgba(0,0,0,0) 100%,rgba(0,0,0,0));
+    }
+    #highlights-secondary {
+      background: linear-gradient(to right,rgba(0,0,0,0),rgba(0,0,0,0) 0%,rgba(0,0,0,0.3) 33%,rgba(0,0,0,0.6) 66%,rgba(0,0,0,0.9) 100%,rgba(0,0,0,0.9));
+    }
+  }
+  @media (min-width: 1438px) {
+    #highlights-image {
+      margin-top: -532px;
+      left:       0px;
+      top:        0px;
+    }
+  }
+  
+  /**************  EDIT FONT  *************/
+  
+  .headline {
+  font-family: "Noticia Text" !important;
+  }
+  .section-eb {
+  font-family: Arial !important;
+  font-weight: bold;
+  }
+  .eb {
+  font-family: Arial !important;
+  font-weight: bold;
+  }
+</style>
+<!--[if lte IE9]>
+<style>
+  #highlights-section #highlights-tint {
+    /* Update this in the future for white-based templates */
+    background: #000;
+    -ms-filter: "alpha(opacity=50)";
+  }
+  #highlights-secondary .primary-overlay {
+    background: none;
+  }
+</style>
+<![endif]-->
+  <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="cnx_adunit" src="//cdn.connatix.com/min/cnx_adunit.js"></script>
+
+<div id="highlights-section">
+  <div class="tint-standard" id="highlights-tint">
+  </div>
+  <div id="highlights-image">
+  </div>
+  
+  <div class="standard" id="highlights-primary">
+  <div class="section-eb">
+    <a href="_________________________">
+      CÔNG NGHỆ
+    </a>
+  </div>
+  <div class="headline">
+    <div class="desktop">
+      <a href="__________________________">
+        5 nhà sản xuất smartphone lớn nhất thế giới quý 1/2016
+      </a>
+    </div>
+    <div class="tablet">
+      <a href="____________________________">
+        5 nhà sản xuất smartphone lớn nhất thế giới quý 1/2016
+      </a>
+    </div>
+    <div class="mobile">
+      <a href="__________________________________">
+       5 nhà sản xuất smartphone lớn nhất thế giới quý 1/2016
+      </a>
+    </div>
+  </div>
+</div>
+  
+  <div class="standard" id="highlights-secondary">
+  <div class="primary-overlay"></div>
+  <div class="secondary-story">
+    <div class="headline">
+      <div class="desktop">
+        <a class="nd-desktop" href="___________________________">
+         Thị trường smartphone là một trong những lĩnh vực nóng bỏng nhất hiện nay. Cách đây không lâu, thị trường này nằm dưới sự thống trị của Nokia và những công ty lớn khác như LG và Sony. Sau đó, Samsung và Apple nhảy vào và chỉ trong vài năm ngắn ngủi, hai công ty này đã nổi lên là những tên tuổi lớn nhất trong lĩnh vực smartphone ...
+        </a>
+      </div>
+      <div class="tablet">
+        <a class="nd-tablet" href="______________________________">
+          Thị trường smartphone là một trong những lĩnh vực nóng bỏng nhất hiện nay. Cách đây không lâu, thị trường này nằm dưới sự thống trị của Nokia và những công ty lớn khác như LG và Sony. Sau đó, Samsung và Apple nhảy vào và chỉ trong vài năm ngắn ngủi, hai công ty này đã nổi lên là những tên tuổi lớn nhất trong lĩnh vực smartphone ...
+        </a>
+      </div>
+      <div class="mobile">
+        <a class="nd-mobile" href="___________________________">
+         Thị trường smartphone là một trong những lĩnh vực nóng bỏng nhất hiện nay. Cách đây không lâu, thị trường này nằm dưới sự thống trị của Nokia và những công ty lớn khác như LG và Sony. Sau đó, Samsung và Apple nhảy vào và chỉ trong vài năm ngắn ngủi, hai công ty này đã nổi lên là những tên tuổi lớn nhất trong lĩnh vực smartphone ...
+        </a>
+      </div>
+    </div>
+     <div class="eb">
+      <a href="______________________________">
+     
+      </a>
+    </div>
+  </div>
+  </div>
+</div>
+
+
